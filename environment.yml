@@ -1,0 +1,7 @@
+name: PLANT_1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cookiecutter=1.7.3
+prefix: /home/fer/yes/envs/PLANT_1
